@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9829b38b.css",
+    "main.js": "/static/js/main.44e2fbf1.js",
+    "static/js/787.38f16daf.chunk.js": "/static/js/787.38f16daf.chunk.js",
+    "static/media/condau.jpg": "/static/media/condau.ef495e16123428d2b30b.jpg",
+    "static/media/logo.jpg": "/static/media/logo.ceedb21295d6094663b9.jpg",
+    "index.html": "/index.html",
+    "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.9829b38b.css.map": "/static/css/main.9829b38b.css.map",
+    "main.44e2fbf1.js.map": "/static/js/main.44e2fbf1.js.map",
+    "787.38f16daf.chunk.js.map": "/static/js/787.38f16daf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9829b38b.css",
+    "static/js/main.44e2fbf1.js"
+  ]
+}
